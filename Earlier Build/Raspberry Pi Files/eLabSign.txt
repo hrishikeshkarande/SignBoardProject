@@ -1,0 +1,3 @@
+curl -d "closed=" -X POST https://elab-siegen.de
+curl -d "open=" -X POST https://elab-siegen.de
+curl -d "brb=" -X POST https://elab-siegen.de
